@@ -9,4 +9,9 @@ public void m1()
 {
 	
 }
+
+	public void m2()
+{
+	system.out.println("This is m2>>>Git");
+}
 }
